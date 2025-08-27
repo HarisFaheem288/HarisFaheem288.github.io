@@ -827,13 +827,11 @@ section,
 
 .portfolio .portfolio-content img {
   width: 100%;
-  aspect-ratio: 16/9;   /* or 16/9 depending on your preference */
-  object-fit: cover;   /* keeps it uniform, cropped proportionally */
+  height: auto;      /* let image keep original aspect ratio */
+  object-fit: contain;  /* show full image inside */
   display: block;
   transition: transform 0.3s ease;
 }
-
-
 
 .portfolio .portfolio-content .portfolio-info {
   opacity: 0;
