@@ -25,7 +25,7 @@ This is a simple portfolio website built using **HTML, CSS, and JavaScript** to 
 ---
 
 ## 📷 Preview
-![Portfolio Screenshot](./s.png)  
+![Portfolio Screenshot](./s.jpg)  
 *(Tip: Add a screenshot of your website in the repo and rename it `screenshot.png`)*
 
 ---
