@@ -1,8 +1,5 @@
-Nice 💡 A **good README** makes your portfolio repo look professional and helps recruiters/visitors understand your project quickly.
-
-Here’s a clean **README.md** template for your portfolio repo 👇
-
 ````markdown
+````
 # 🌐 Haris Faheem - Portfolio Website
 
 Welcome to my personal portfolio! 🚀  
