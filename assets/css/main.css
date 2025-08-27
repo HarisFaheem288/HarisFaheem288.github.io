@@ -827,11 +827,12 @@ section,
 
 .portfolio .portfolio-content img {
   width: 100%;
-  height: 1536px;  /* fixed height for all cards */
-  object-fit: cover;  /* crop to fit, keeps uniform grid */
+  aspect-ratio: 16/9;   /* or 16/9 depending on your preference */
+  object-fit: cover;   /* keeps it uniform, cropped proportionally */
   display: block;
   transition: transform 0.3s ease;
 }
+
 
 
 .portfolio .portfolio-content .portfolio-info {
