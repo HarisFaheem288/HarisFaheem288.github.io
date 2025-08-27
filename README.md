@@ -51,5 +51,4 @@ git clone https://github.com/HarisFaheem288/HarisFaheem288.github.io.git
 
 ⭐ If you like this project, don’t forget to **star the repo**!
 
-```
 
