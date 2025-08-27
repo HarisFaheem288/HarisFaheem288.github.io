@@ -827,10 +827,10 @@ section,
 
 .portfolio .portfolio-content img {
   width: 100%;
-  height: auto;   /* choose height for all cards */
-  object-fit: contain;  /* keeps grid uniform, may crop */
+  height: 250px;  /* fixed height for all cards */
+  object-fit: cover;  /* crop to fit, keeps uniform grid */
   display: block;
-  transition: 0.3s;
+  transition: transform 0.3s ease;
 }
 
 
