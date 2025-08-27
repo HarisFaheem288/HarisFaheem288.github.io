@@ -54,6 +54,3 @@ git clone https://github.com/HarisFaheem288/HarisFaheem288.github.io.git
 ```
 
 ---
-
-If you want, I can also make you a **fancier README with badges, visitor counters, and animations** (like the ones popular on GitHub profiles). Want me to do that?
-```
