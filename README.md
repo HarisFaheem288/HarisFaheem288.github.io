@@ -45,7 +45,7 @@ git clone https://github.com/HarisFaheem288/HarisFaheem288.github.io.git
 
 * **GitHub:** https://github.com/HarisFaheem288
 * **LinkedIn:** https://www.linkedin.com/in/haris-faheem-1376982a3/
-* **Email:** harisfaheem288@gmail.com.com
+* **Email:** harisfaheem288@gmail.com
 
 ---
 
